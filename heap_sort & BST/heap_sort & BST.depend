@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1661861288 source:c:\users\dell\desktop\heap_sort & bts\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cstring>
+	<sstream>
+	<string.h>
+	<iostream>
+	<fstream>
+	<vector>
+
+1661862187 source:c:\users\dell\desktop\heap_sort & bst\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cstring>
+	<sstream>
+	<string.h>
+	<iostream>
+	<fstream>
+	<vector>
+
